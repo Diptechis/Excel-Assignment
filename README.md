@@ -49,3 +49,5 @@
 2. In which year did we see the most number of teams starting their season?
 
 3. Which division has the maximum number of teams?
+
+# Platform Used:  "Google Sheets" 
